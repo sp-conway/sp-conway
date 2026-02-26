@@ -1,0 +1,15 @@
+---
+title: "Sean Conway"
+image: conway_photo.jpeg
+links: 
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/sean-conway-a1b7b0326
+  - icon: github
+    text: Github
+    href: https://github.com/sp-conway
+---
+
+![](conway_photo.jpeg){width="400"}
+
+Hello! Thank you for stopping by. I am a Post-Doctoral Researcher in Psychology at Purdue University. Click my About Me page to learn more about my background and experience.

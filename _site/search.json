@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I am a Post-Doctoral Researcher in the Department of Psychological Sciences at Purdue University, working under Dr. Stephen Broomell. I completed my PhD in Psychological and Brain Sciences, with an emphasis in Cognitive Psychology, from the University of Massachusetts Amherst in September of 2025, advised by Dr. Andrew Cohen."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I am a Post-Doctoral Researcher in the Department of Psychological Sciences at Purdue University, working under Dr. Stephen Broomell. I completed my PhD in Psychological and Brain Sciences, with an emphasis in Cognitive Psychology, from the University of Massachusetts Amherst in September of 2025, advised by Dr. Andrew Cohen."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About Me",
+    "section": "Research",
+    "text": "Research\nI study human decision-making using behavioral experiments and mathematical and statistical modeling. In particular, I am interested in understanding the properties underlying people’s choices and the cognitive processes with which people make decisions. I often test psychological theories of decision-making which are instantiated in mathematical models."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sean Conway",
+    "section": "",
+    "text": "Hello! Thank you for stopping by. I am a Post-Doctoral Researcher in Psychology at Purdue University. Click my About Me page to learn more about my background and experience."
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About Me",
+    "section": "Teaching",
+    "text": "Teaching\nI have been the instructor of record for nine courses. In addition to teaching Statistics in Psychology, Writing in Psychology, and Research Methods, I also taught a Data Science Fundamentals course for the M.S. program in Data Analytics and Computational Social Science at UMass Amherst. In this course, I taught students from diverse academic background about the fundamentals of data analytics and visualization."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Sean Conway",
+    "section": "",
+    "text": "Hello! Thank you for stopping by. I am a Post-Doctoral Researcher in Psychology at Purdue University."
+  },
+  {
+    "objectID": "about.html#cv",
+    "href": "about.html#cv",
+    "title": "About Me",
+    "section": "CV",
+    "text": "CV\n&lt;embed title=\"My CV\" src=\"conway_cv.pdf\" width=\"100%\" height=\"480\" /&gt;"
+  }
+]

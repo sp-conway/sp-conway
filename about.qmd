@@ -1,0 +1,27 @@
+---
+title: "About Me"
+about:
+  template: jolla
+  image: conway_photo.jpeg
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sean-conway-a1b7b0326
+    - icon: github
+      text: Github
+      href: https://github.com/sp-conway
+---
+
+Hello! I am a Post-Doctoral Researcher in the Department of Psychological Sciences at Purdue University, working under Dr. Stephen Broomell. I completed my PhD in Psychological and Brain Sciences, with an emphasis in Cognitive Psychology, from the University of Massachusetts Amherst in September of 2025, advised by Dr. Andrew Cohen.
+
+## Research
+
+I study human decision-making using behavioral experiments and mathematical and statistical modeling. In particular, I am interested in understanding the properties underlying people's choices and the cognitive processes with which people make decisions. I often test psychological theories of decision-making which are instantiated in mathematical models.
+
+## Teaching
+
+I have been the instructor of record for nine courses. In addition to teaching Statistics in Psychology, Writing in Psychology, and Research Methods, I also taught a Data Science Fundamentals course for the M.S. program in Data Analytics and Computational Social Science at UMass Amherst. In this course, I taught students from diverse academic background about the fundamentals of data analytics and visualization.
+
+## Personal
+
+In my free time, I enjoy reading, listening to audiobooks, collecting records, running, lifting weights, and playing the saxophone.
