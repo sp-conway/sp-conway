@@ -16,7 +16,7 @@ Hello! I am a Post-Doctoral Researcher in the Department of Psychological Scienc
 
 ## Research
 
-I study human decision-making using behavioral experiments and mathematical and statistical modeling. In particular, I am interested in understanding the properties underlying people's choices and the cognitive processes with which people make decisions. I often test psychological theories of decision-making which are instantiated in mathematical models.
+I study human decision-making using behavioral experiments and mathematical and statistical modeling. In particular, I am interested in understanding the properties of human choice. My work often utilizes mathematical models, with the goal of testing theories of decision-making against empirical data as well as characterizing the cognitive processes underlying decision-making.
 
 ## Teaching
 
